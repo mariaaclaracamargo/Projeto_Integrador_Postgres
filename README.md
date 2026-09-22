@@ -1,4 +1,5 @@
-**ORDEM DE EXECUÇÃO DOS SCRIPTS:
+**SUGERIDO LER NO MODO "CODE" PARA MELHOR VISUALIZAÇÃO**
+**ORDEM DE EXECUÇÃO DOS SCRIPTS:**
 1- Main_Script_POSTGRES.sql : Estrutura geral do banco de dados (tabelas e colunas);
 2- Script_POSTGRES_01.sql : Altera o schema da tabela "cliente" (passa para o schema "adm");
 3- Script_POSTGRES_02.sql : Altera o schema de 2 tabelas (passa para o schema "contabil");
