@@ -1,0 +1,1 @@
+ALTER TABLE historico_caixa SET SCHEMA contabil;
