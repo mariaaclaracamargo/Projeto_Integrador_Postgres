@@ -1,1 +1,0 @@
-ALTER TABLE itens_pedido SET SCHEMA adm;
