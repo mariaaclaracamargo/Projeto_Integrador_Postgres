@@ -1,5 +1,0 @@
-ALTER TABLE pedido SET SCHEMA adm;
-ALTER TABLE produto SET SCHEMA adm;
-ALTER TABLE setor SET SCHEMA adm;
-ALTER TABLE status_pedido SET SCHEMA adm;
-ALTER TABLE usuario SET SCHEMA site;
